@@ -1,4 +1,4 @@
-**_<h1 align="center">:vulcan_salute: Titulo proyecto :computer:</h1>_**
+**_<h1 align="center">:vulcan_salute: Proyecto Empresa de Asesorías en Prevención de Riesgos :computer:</h1>_**
 
 **<h3>:blue_book: Contexto:</h3>**
 
@@ -22,8 +22,6 @@
 1. Crear el modelo entidad-relación (MER) utilizando una herramienta de diagramación, validando que se cumplan todos los requisitos. Debe incluir todas las entidades, relaciones y atributos necesarios.
 2. Convertir el MER a un modelo relacional, definiendo las tablas, claves primarias y foráneas.
 3. Implementar en MySQL creando las tablas y relaciones necesarias.
-4. Poblar las tablas con datos de ejemplo para realizar pruebas y validar que el modelo funciona correctamente.
-5. Realizar pruebas de consulta para asegurar que el modelo funciona correctamente.
 
 **<h3>📁 Estructura del Proyecto:</h3>**
 
@@ -149,4 +147,4 @@ CREATE TABLE capacitacion_asistente (
 
 **<h3>:book: EER Diagram:</h3>**
 
-<img src="./img/eer_diagram.jpg" alt="" style="width: 80%;">
+<img src="./img/eer_diagram.jpg" alt="" style="width: 100%;">
